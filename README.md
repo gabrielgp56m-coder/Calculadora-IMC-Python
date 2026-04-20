@@ -23,7 +23,7 @@ Ao final, retorna o valor do IMC, a classificação e o peso ideal aproximado.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/Calculadora-IMC-Python.git
+git clone https://github.com/gabrielgp56m-coder/Calculadora-IMC-Python.git
 ```
 
 Acesse a pasta do projeto:
@@ -35,7 +35,7 @@ cd Calculadora-IMC-Python
 Execute o arquivo:
 
 ```bash
-python nome_do_arquivo.py
+python imc.py
 ```
 
 ## Observação
@@ -44,4 +44,5 @@ Projeto desenvolvido com foco em aprendizado, utilizando conceitos básicos de P
 
 ## Autor
 
+Gabriel
 https://github.com/gabrielgp56m-coder

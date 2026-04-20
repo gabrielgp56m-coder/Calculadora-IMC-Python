@@ -44,5 +44,4 @@ Projeto desenvolvido com foco em aprendizado, utilizando conceitos básicos de P
 
 ## Autor
 
-Gabriel Pereira 
 https://github.com/gabrielgp56m-coder
